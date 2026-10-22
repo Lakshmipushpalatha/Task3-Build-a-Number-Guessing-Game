@@ -35,7 +35,7 @@ In this game, the computer generates a random number between 1 and 100, and the 
 ▶️ How to Run
 
 1. Install Java or open an online Java compiler.
-2. Create a Java file named "Main.java".
+2. Create a Java file named "Task3.java".
 3. Copy the program code into the file.
 4. Compile and run the program.
 5. Enter your guesses between 1 and 100.
